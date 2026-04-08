@@ -128,6 +128,19 @@ rss:
     - id: "yahoo-finance"
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
+   - id: "jiqizhixin"
+      name: "机器之心"
+      url: "https://www.jiqizhixin.com/rss"
+    - id: "36kr"
+      name: "36氪"
+      url: "https://36kr.com/feed"
+    - id: "arxiv_cs_ai"
+      name: "arXiv AI论文"
+      url: "https://rss.arxiv.org/rss/cs.AI"
+    - id: "qianyan"
+      name: "前沿"
+      url: "https://www.frontiersonline.com/"
+      
 
     # 自定义源示例
     # - id: "custom-feed"
